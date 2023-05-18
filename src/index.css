@@ -1,0 +1,117 @@
+body{
+  
+  margin: 0px;
+  background-color: #FFFBEB;
+  font-family: 'Sacramento', cursive;
+  color:grey;
+}
+
+
+h1{
+  font-size: 5.625rem;
+  margin: 50px 0 0 0;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  
+  
+}
+
+
+
+
+
+h2{
+  font-weight: normal;
+ color: #66BFBF;
+  font-size: 2rem;
+  width: auto;
+  padding-bottom: 20px;
+  margin: 0 auto ;
+  font-family: 'Montserrat', sans-serif;}
+
+
+
+
+
+
+h3{
+  color: #86e6ec;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+h4{
+  color: #86e6ec;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+
+
+h5{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  margin: 30px auto;
+}
+
+h6{
+  text-align: center;
+  margin: 0px;
+  padding-bottom: 30px;
+  font-family: 'Montserrat', sans-serif;
+  
+  
+}
+
+p{
+  line-height: 2;
+  
+  text-align: center;
+  
+  
+
+}
+
+.portfolio-table {
+  width: 100%;
+}
+
+.project-column {
+  width: 25%;
+}
+
+.description-column {
+  width: 50%;
+}
+
+.git-column {
+  width: 25%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+
+.noPadding{
+  padding: 0 0
+}
+
+
+.addPadding{
+  padding: 0 0 30px 0;
+}
+
+
+.c1{
+  color: #86e6ec;
+}
