@@ -2,7 +2,7 @@ body{
   
   margin: 0px;
   background-color: #FFFBEB;
-  font-family: 'Sacramento', sans-serif;
+  font-family: 'Sacramento', cursive;
   color:grey;
 }
 
@@ -11,7 +11,7 @@ h1{
   font-size: 5.625rem;
   margin: 50px 0 0 0;
   color: #66BFBF;
-  font-family: 'Sacramento', sans-serif;
+  font-family: 'Sacramento', cursive;
   
   
 }
@@ -113,5 +113,21 @@ p{
 
 
 .c1{
+  color: #86e6ec;
+}
+
+
+
+.center-align {
+  text-align: center;
+}
+
+.c2{
+  color: #86e6ec;
+  padding-bottom: 20px;
+}
+
+
+.c3{
   color: #86e6ec;
 }
