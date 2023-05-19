@@ -86,7 +86,7 @@ export default function Experiences() {
                   <strong>Vice Administrator - Academics at Sunshine School Ranchi.</strong>
                 </h6>
                 <p>
-                As the Vice Administrator - Academics at Sunshine School Ranchi, I am responsible for overseeing 
+                As the Vice Administrator - Academics at Sunshine School Ranchi, I was responsible for overseeing 
                 curriculum development, ensuring adherence to educational standards, and creating a positive 
                 learning environment. I collaborate with academic staff to enhance teaching methodologies,
                  monitor student performance, and identify areas for improvement. I actively engage with parents 
