@@ -9,12 +9,42 @@ export default function Experiences() {
             <strong>EXPERIENCE</strong>
           </h4>
 
-          <div className="row mt-top">
+    
+    <div className="row mt-top">
             <div className="col xl4 l4 m6 s12">
               <p className="teal year_exp white-text">
                 Aug
                 <strong> 2022</strong> - Present
                 <strong> 2023</strong>
+              </p>
+            </div>
+            <div className="col xl8 l8 m6 s12">
+              <blockquote className="no-pad">
+                <h6 className="">
+                  <strong>Web Developer as Freelancer.</strong>
+                </h6>
+                <p>
+                 Created visually appealing dynamic websites for 20 clients, resulting in a 50% increase
+in user engagement & satisfaction.
+
+    Implemented responsive design principles, resulting in optimal viewing across devices & a
+50% improvement in user experience.
+ Restructured team communication by implementing a new project management tool, resulting
+in a 40% reduction in email usage, improved collaboration, & a 25% increase in productivity.
+                    </p>
+              </blockquote>
+            </div>
+          </div>
+
+    
+    
+    
+          <div className="row mt-top">
+            <div className="col xl4 l4 m6 s12">
+              <p className="teal year_exp white-text">
+                Aug
+                <strong> Aug’19</strong>
+                <strong> Jul’22</strong>
               </p>
             </div>
             <div className="col xl8 l8 m6 s12">
@@ -72,32 +102,7 @@ export default function Experiences() {
           </div>
 
 
-          <div className="row mt-top">
-            <div className="col xl4 l4 m6 s12">
-              <p className="teal year_exp white-text">
-                Sept
-                <strong> 2017</strong> - June
-                <strong> 2020</strong>
-              </p>
-            </div>
-            <div className="col xl8 l8 m6 s12">
-              <blockquote className="no-pad">
-                <h6 className="">
-                  <strong>Vice Administrator - Academics at Sunshine School Ranchi.</strong>
-                </h6>
-                <p>
-                As the Vice Administrator - Academics at Sunshine School Ranchi, I was responsible for overseeing 
-                curriculum development, ensuring adherence to educational standards, and creating a positive 
-                learning environment. I collaborate with academic staff to enhance teaching methodologies,
-                 monitor student performance, and identify areas for improvement. I actively engage with parents 
-                 and stakeholders, conduct staff evaluations, and provide professional development opportunities 
-                 for teachers. By analyzing academic data and staying updated with educational trends, 
-                 I contribute to program enhancement and student success. My role as Vice Administrator - Academics 
-                 at Sunshine School Ranchi is instrumental in promoting educational excellence and fostering the 
-                 overall growth of the institution.</p>
-              </blockquote>
-            </div>
-          </div>
+         
           
         </div>
       </div>
