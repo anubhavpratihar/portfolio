@@ -12,8 +12,8 @@ export default function Educations() {
             <div className="col xl4 l4 m6 s12">
               <p className="teal year_exp white-text">
                 Aug
-                <strong> 2020</strong> - July
-                <strong> 2022</strong>
+                <strong> 2015</strong> - July
+                <strong> 2019</strong>
               </p>
             </div>
             <div className="col xl8 l8 m6 s12">
@@ -27,24 +27,7 @@ export default function Educations() {
 			
           </div>
 
-		  <div className="row mt-top">
-            <div className="col xl4 l4 m6 s12">
-              <p className="teal year_exp white-text">
-                Aug
-                <strong> 2015</strong> - July
-                <strong> 2017</strong>
-              </p>
-            </div>
-            <div className="col xl8 l8 m6 s12">
-              <blockquote className="no-pad">
-			  <h6 className="noPadding">
-                  <strong >B.E. ("Electronics & Communication") at B.M.S Institute of Technology & Management, Bangalore.</strong>
-                </h6>
-				<p>I have temporarily discontinued the course in order to prioritize assisting my family through some personal challenges.</p>
-              </blockquote>
-            </div>
-			
-          </div>
+		
 
 
 		  <div className="row mt-top">
