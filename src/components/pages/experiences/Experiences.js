@@ -21,7 +21,7 @@ export default function Experiences() {
             <div className="col xl8 l8 m6 s12">
               <blockquote className="no-pad">
                 <h6 className="">
-                  <strong>Web Developer as Freelancer.</strong>
+                  <strong>Web Developer as Freelancer at UpWork.com.</strong>
                 </h6>
                 <p>
                  Created visually appealing dynamic websites for 20 clients, resulting in a 50% increase
@@ -50,7 +50,7 @@ in a 40% reduction in email usage, improved collaboration, & a 25% increase in p
             <div className="col xl8 l8 m6 s12">
               <blockquote className="no-pad">
                 <h6 className="">
-                  <strong>Web Developer as Freelancer.</strong>
+                  <strong>FrontEnd Web Developer || UI/UX Designer as Freelancer at freelancer.com.</strong>
                 </h6>
                 <p>
                 As a freelance web developer, my roles and responsibilities encompassed a wide range of tasks. 
