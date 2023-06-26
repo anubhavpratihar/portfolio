@@ -20,9 +20,10 @@ export default class Home extends Component {
             </div>
             <div className="col s12 m9">
               <About />
+              <Experiences />
               <Skills />
               <Educations />
-              <Experiences />
+              
               
               
             </div>
