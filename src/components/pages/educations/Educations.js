@@ -6,7 +6,7 @@ export default function Educations() {
       <div className="card">
         <div className="card-content">
           <h4 className='addPadding'>
-            <strong>EDUCATIONAL BACKGROUND</strong>
+            <strong>EDUCATIONS</strong>
           </h4>
           <div className="row mt-top">
             <div className="col xl4 l4 m6 s12">
