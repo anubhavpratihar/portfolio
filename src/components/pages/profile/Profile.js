@@ -32,6 +32,72 @@ export default function Profile() {
         </div>
       </div>
 
+<div className="card">
+        <div className="card-content">
+          <h5 className='c2' >
+            <strong>PROJECTS</strong>
+          </h5>
+          <ul className="collection">
+            <li className="collection-item">
+            <a href="https://inquisitive-croquembouche-9e2b66.netlify.app">
+            <h6 className="noPadding">Google Keep App</h6>
+            </a>
+            </li>
+            <li className="collection-item">
+            <a className="x1" href="https://eloquent-dolphin-e0d996.netlify.app">
+            <h6 className="noPadding">Amazon Shopping App</h6>
+            </a>
+            </li>
+            <li className="collection-item">
+            <a className="x1" href="https://imaginative-puffpuff-5c236d.netlify.app">
+            <h6 className="noPadding">Youtube App</h6>
+            </a>
+            </li>
+            <li className="collection-item">
+            <a className="x1" href="https://sage-lokum-30d2b4.netlify.app">
+            <h6 className="noPadding">OTT App</h6>
+            </a>
+            </li>
+            <li className="collection-item">
+            <a className="x1" href="https://tangerine-meringue-649b74.netlify.app">
+            <h6 className="noPadding">Cocktail App</h6>
+            </a>
+            </li>
+            <li className="collection-item">
+            <a className="x1" href="https://warm-fenglisu-988100.netlify.app"> 
+            <h6 className="noPadding">To-Do-List App</h6>
+            </a>
+            </li>
+            <li className="collection-item">
+            <a className="x1" href="https://chimerical-blini-ed9789.netlify.app">
+               <h6 className="noPadding">Rock Paper Scissor Game</h6>
+            </a>
+            </li>
+            <li className="collection-item">
+            <a className="x1" href="https://preeminent-choux-287f56.netlify.app">
+               <h6 className="noPadding">Simon Game</h6>
+            </a>
+            </li>
+            <li className="collection-item">
+            <a className="x1" href="https://dashing-unicorn-ae6639.netlify.app">
+               <h6 className="noPadding">DrumKit App</h6>
+            </a>
+            </li>
+            <li className="collection-item">
+            <a className="x1" href="https://fancy-pika-1a9d2c.netlify.app">
+               <h6 className="noPadding">Chat App</h6>
+            </a>
+            </li>
+            <li className="collection-item">
+            <a className="x1" href="https://tiny-pegasus-51ce15.netlify.app">
+               <h6 className="noPadding">TinDog</h6>
+            </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+    
       <div className="card">
         <div className="card-content">
           <h5 className='c2'>
@@ -117,71 +183,7 @@ export default function Profile() {
       </div>
 
       
-      <div className="card">
-        <div className="card-content">
-          <h5 className='c2' >
-            <strong>PROJECTS</strong>
-          </h5>
-          <ul className="collection">
-            <li className="collection-item">
-            <a href="https://inquisitive-croquembouche-9e2b66.netlify.app">
-            <h6 className="noPadding">Google Keep App</h6>
-            </a>
-            </li>
-            <li className="collection-item">
-            <a className="x1" href="https://eloquent-dolphin-e0d996.netlify.app">
-            <h6 className="noPadding">Amazon Shopping App</h6>
-            </a>
-            </li>
-            <li className="collection-item">
-            <a className="x1" href="https://imaginative-puffpuff-5c236d.netlify.app">
-            <h6 className="noPadding">Youtube App</h6>
-            </a>
-            </li>
-            <li className="collection-item">
-            <a className="x1" href="https://sage-lokum-30d2b4.netlify.app">
-            <h6 className="noPadding">OTT App</h6>
-            </a>
-            </li>
-            <li className="collection-item">
-            <a className="x1" href="https://tangerine-meringue-649b74.netlify.app">
-            <h6 className="noPadding">Cocktail App</h6>
-            </a>
-            </li>
-            <li className="collection-item">
-            <a className="x1" href="https://warm-fenglisu-988100.netlify.app"> 
-            <h6 className="noPadding">To-Do-List App</h6>
-            </a>
-            </li>
-            <li className="collection-item">
-            <a className="x1" href="https://chimerical-blini-ed9789.netlify.app">
-               <h6 className="noPadding">Rock Paper Scissor Game</h6>
-            </a>
-            </li>
-            <li className="collection-item">
-            <a className="x1" href="https://preeminent-choux-287f56.netlify.app">
-               <h6 className="noPadding">Simon Game</h6>
-            </a>
-            </li>
-            <li className="collection-item">
-            <a className="x1" href="https://dashing-unicorn-ae6639.netlify.app">
-               <h6 className="noPadding">DrumKit App</h6>
-            </a>
-            </li>
-            <li className="collection-item">
-            <a className="x1" href="https://fancy-pika-1a9d2c.netlify.app">
-               <h6 className="noPadding">Chat App</h6>
-            </a>
-            </li>
-            <li className="collection-item">
-            <a className="x1" href="https://tiny-pegasus-51ce15.netlify.app">
-               <h6 className="noPadding">TinDog</h6>
-            </a>
-            </li>
-          </ul>
-        </div>
-      </div>
-
+      
 
     </div>
   );
