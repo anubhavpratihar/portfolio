@@ -56,6 +56,13 @@ const Navbar = () => {
             <i className="fas fa-home"></i> Home
           </Link>
         </li>
+
+    <li>
+          <Link to="/experiences" className="nav-link">
+            <i className="fas fa-id-badge"></i> Experiences
+          </Link>
+        </li>
+    
         <li>
           <Link to="/skills" className="nav-link">
             <i className="fas fa-copy"></i> Skills
@@ -66,11 +73,7 @@ const Navbar = () => {
             <i className="fas fa-graduation-cap"></i> Educations
           </Link>
         </li>
-        <li>
-          <Link to="/experiences" className="nav-link">
-            <i className="fas fa-id-badge"></i> Experiences
-          </Link>
-        </li>
+        
         
         <li>
           <Link to="/portfolios" className="nav-link">
