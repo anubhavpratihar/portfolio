@@ -21,8 +21,9 @@ export default class Home extends Component {
             <div className="col s12 m9">
               <About />
               <Experiences />
-              <Skills />
               <Educations />
+              <Skills />
+              
               
               
               
