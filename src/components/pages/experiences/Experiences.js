@@ -13,8 +13,8 @@ export default function Experiences() {
     <div className="row mt-top">
             <div className="col xl4 l4 m6 s12">
               <p className="teal year_exp white-text">
-                Aug
-                <strong> 2022</strong> - Present
+               
+                <strong> Aug 2022</strong> - Present
                 <strong> 2023</strong>
               </p>
             </div>
@@ -42,9 +42,9 @@ in a 40% reduction in email usage, improved collaboration, & a 25% increase in p
           <div className="row mt-top">
             <div className="col xl4 l4 m6 s12">
               <p className="teal year_exp white-text">
-                Aug
+            
                 <strong> Aug’19</strong>
-                <strong> Jul’22</strong>
+                <strong> Mar’22</strong>
               </p>
             </div>
             <div className="col xl8 l8 m6 s12">
