@@ -21,7 +21,7 @@ export default function Experiences() {
             <div className="col xl8 l8 m6 s12">
               <blockquote className="no-pad">
                 <h6 className="">
-                  <strong>Web Developer as Freelancer at UpWork.com.</strong>
+                  <strong>Web Developer as Freelancer.</strong>
                 </h6>
                 <p>
                  Created visually appealing dynamic websites for 20 clients, resulting in a 50% increase
@@ -50,19 +50,17 @@ in a 40% reduction in email usage, improved collaboration, & a 25% increase in p
             <div className="col xl8 l8 m6 s12">
               <blockquote className="no-pad">
                 <h6 className="">
-                  <strong>FrontEnd Web Developer || UI/UX Designer as Freelancer at freelancer.com.</strong>
+                  <strong>Associate Engineer || System Administrator at Sharma Engineering Works, Ranchi.</strong>
                 </h6>
                 <p>
-                As a freelance web developer, my roles and responsibilities encompassed a wide range of tasks. 
-                I was responsible for designing and developing visually appealing and user-friendly websites for clients.
-                 This involved understanding client requirements, creating website layouts, and implementing responsive 
-                 design principles. I utilized various programming languages such as HTML, CSS, and JavaScript to build 
-                 interactive and functional websites. Additionally, I integrated third-party APIs, optimized website 
-                 performance, and ensured cross-browser compatibility. I collaborated closely with clients to gather
-                  feedback, make revisions, and deliver high-quality solutions within agreed timelines. As a freelancer,
-                   I also handled website maintenance and updates, including bug fixes and content management. Moreover, 
-                   I stayed up-to-date with industry trends, technologies, and best practices to continuously
-                    enhance my skills and provide cutting-edge solutions to clients.
+               Worked as an Associate Engineer/System Administrator, overseeing the operations of a
+leading manufacturer of spare parts for mining equipment such as dozers, cranes, etc.
+                 Installed, configured, and troubleshooted hardware and software components, optimizing
+system performance for smooth operations.
+  Collaborated with cross-functional teams to develop and execute IT strategies, resulting in
+a 30% reduction in system-related incidents.
+  Streamlined backup and disaster recovery processes, reducing recovery time by 40%
+during critical system failures.
                     </p>
               </blockquote>
             </div>
