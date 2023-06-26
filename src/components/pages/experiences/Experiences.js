@@ -43,8 +43,8 @@ in a 40% reduction in email usage, improved collaboration, & a 25% increase in p
             <div className="col xl4 l4 m6 s12">
               <p className="teal year_exp white-text">
             
-                <strong> Aug’19</strong>
-                <strong> Mar’22</strong>
+                <strong> Aug 2019</strong>
+                <strong> Mar 2022</strong>
               </p>
             </div>
             <div className="col xl8 l8 m6 s12">
