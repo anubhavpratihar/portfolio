@@ -87,13 +87,7 @@ during critical system failures.
                   potential vulnerabilities and compliance gaps. Collaborating with the team, I contributed to the 
                   development and implementation of policies and procedures to ensure regulatory compliance. 
                   I participated in evaluating internal controls, suggesting improvements, and supporting the maintenance
-                   of risk management frameworks. Additionally, I assisted in creating and delivering training programs on 
-                   compliance and risk management for employees. I conducted research on industry regulations, 
-                   staying updated on compliance requirements. I prepared reports for regulatory agencies 
-                   and internal stakeholders, while also assisting in monitoring and assessing compliance with laws,
-                    regulations, and company policies. My role involved working with cross-functional teams to address 
-                    compliance issues and implement remediation plans, contributing to the organization's overall risk 
-                    management and compliance efforts.
+                   of risk management frameworks.
                     </p>
               </blockquote>
             </div>
