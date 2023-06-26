@@ -14,8 +14,8 @@ export default function Experiences() {
             <div className="col xl4 l4 m6 s12">
               <p className="teal year_exp white-text">
                
-                <strong> Aug 2022</strong> - Present
-                <strong> 2023</strong>
+                <strong> Aug 2022</strong> - 
+                <strong> Present</strong>
               </p>
             </div>
             <div className="col xl8 l8 m6 s12">
