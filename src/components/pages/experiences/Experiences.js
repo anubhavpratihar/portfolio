@@ -44,7 +44,7 @@ in a 40% reduction in email usage, improved collaboration, & a 25% increase in p
               <p className="teal year_exp white-text">
             
                 <strong> Aug 2019</strong>
-                <strong> Mar 2022</strong>
+                <strong>- Mar 2022</strong>
               </p>
             </div>
             <div className="col xl8 l8 m6 s12">
@@ -71,9 +71,9 @@ during critical system failures.
           <div className="row mt-top">
             <div className="col xl4 l4 m6 s12">
               <p className="teal year_exp white-text">
-                Apr
-                <strong> 2022</strong> - July
-                <strong> 2022</strong>
+                
+                <strong>Apr 2022</strong> 
+                <strong>- July 2022</strong>
               </p>
             </div>
             <div className="col xl8 l8 m6 s12">
