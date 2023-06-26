@@ -6,7 +6,7 @@ export default function Experiences() {
       <div className="card">
         <div className="card-content">
           <h4 className='addPadding'>
-            <strong>EXPERIENCE</strong>
+            <strong>WORK-EXPERIENCE</strong>
           </h4>
 
     
